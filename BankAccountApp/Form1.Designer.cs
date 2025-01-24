@@ -116,6 +116,7 @@
             CreateAccountBtn.TabIndex = 8;
             CreateAccountBtn.Text = "Create Account";
             CreateAccountBtn.UseVisualStyleBackColor = true;
+            CreateAccountBtn.Click += CreateAccountBtn_Click;
             // 
             // AmountTxt
             // 
